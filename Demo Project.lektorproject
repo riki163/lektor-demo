@@ -1,0 +1,5 @@
+[project]
+name = Demo Project
+
+[servers.ghpages]
+target = ghpages+https://riki163/lektor-demo
